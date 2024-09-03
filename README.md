@@ -1,3 +1,4 @@
+![R](https://github.com/user-attachments/assets/4c78b5e1-d093-4a0a-b0da-a2c6afcf06cc)
 # note_app
 
 A new Flutter project.
