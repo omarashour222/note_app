@@ -1,4 +1,3 @@
-![icon](https://github.com/user-attachments/assets/bb7fefe4-cc30-424a-ba8b-416fbf1df838)
 # note_app
 
 A new Flutter project.
